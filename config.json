@@ -1,0 +1,16 @@
+{
+    "token": "MTAyMjQ5NTY0NDUzMjg3MTMwOA.Gh1WTw.SC8DhozHXUABAlAFzmW4z6OIkNMw-N3YP39iKI",
+    "prefix": "!",
+    "genChannel": "1115654051535781939",
+    "genCooldown": "1000",
+    "color": {
+        "green": "55c63f",
+        "yellow": "fec901",
+        "red": "d64b4b",
+        "default": "000000"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
